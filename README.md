@@ -1,5 +1,4 @@
 # Agrinho_-_3Ano
-Olá, segue o modelo de como vocês devem fazer no Redme, no projeto do agrinho no seu github.
 
 
 - ### Olá, sou Maria Eduarda De Souza Machado
